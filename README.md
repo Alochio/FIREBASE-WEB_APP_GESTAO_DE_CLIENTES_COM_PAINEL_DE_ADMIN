@@ -13,17 +13,29 @@ Para o desenvolvimento do app, utilizamos as seguintes tecnologias:
 
 <p align="center">
 	<img width="640" height="360" src="imagens-para-readme/01.PNG"><br>
-  <img width="640" height="360" src="imagens-para-readme/02.PNG"><br>
-  <img width="640" height="360" src="imagens-para-readme/03.PNG"><br>
+ 	<img width="640" height="360" src="imagens-para-readme/02.PNG"><br>
+ 	<img width="640" height="360" src="imagens-para-readme/03.PNG"><br>
 </p><br>
 
 ### Área do Admin:
 
 <p align="center">
 	<img width="640" height="360" src="imagens-para-readme/04.PNG"><br>
-  <img width="300" height="500" src="imagens-para-readme/05.PNG"><br>
-  <img width="640" height="360" src="imagens-para-readme/06.PNG"><br>
-  <img width="640" height="360" src="imagens-para-readme/07.PNG"><br>
+  	<img width="300" height="500" src="imagens-para-readme/05.PNG"><br>
+  	<img width="640" height="360" src="imagens-para-readme/06.PNG"><br>
+  	<img width="640" height="360" src="imagens-para-readme/07.PNG"><br>
+</p><br>
+
+### Usuários logados pela verificação do Google:
+
+<p align="center">
+  <img width="640" height="360" src="imagens-para-readme/11.PNG"><br>
+</p><br>
+
+### Informações contidas no banco de dados:
+
+<p align="center">
+  <img width="640" height="360" src="imagens-para-readme/10.PNG"><br>
 </p><br>
 
 ### Regras de segurança (para poder acessar as informações de admin, somente os emails cadastrados):
